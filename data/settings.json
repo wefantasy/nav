@@ -2,8 +2,8 @@
   "favicon": "https://ifantasy.net/apple-touch-icon.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "loading1",
-  "showGithub": true,
+  "loading": "null",
+  "showGithub": false,
   "title": "风色幻想的导航",
   "description": "喜欢发呆和折腾, 喜欢IT技术",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全",
@@ -55,7 +55,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
-  "showRate": true,
+  "showLanguage": false,
+  "showRate": false,
   "mirrorList": []
 }
